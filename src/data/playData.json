@@ -1,0 +1,344 @@
+{
+  "watch": [
+    {
+      "category": "movies",
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 9.6,
+      "creator": "Christopher Nolan",
+      "poster": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80&auto=format&fit=crop",
+      "note": "Love transcends dimensions of time and space. The docking sequence with Hans Zimmer’s organ score remains unmatched in modern cinema."
+    },
+    {
+      "category": "movies",
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "rating": 9.4,
+      "creator": "Denis Villeneuve",
+      "poster": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1200&q=80&auto=format&fit=crop",
+      "note": "Atmospheric visual poetry. Roger Deakins’ cinematography and Benjamin Wallfisch’s synth soundscapes create an overwhelming sensory triumph."
+    },
+    {
+      "category": "movies",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "rating": 9.5,
+      "creator": "Denis Villeneuve",
+      "poster": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=1200&q=80&auto=format&fit=crop",
+      "note": "A towering sci-fi epic. The visual scale of Arrakis and the tactile sound design make every frame feel biblical."
+    },
+    {
+      "category": "movies",
+      "title": "Inception",
+      "year": 2010,
+      "rating": 9.3,
+      "creator": "Christopher Nolan",
+      "poster": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80&auto=format&fit=crop",
+      "note": "A masterclass in parallel editing and high-concept architecture. The spinning totem and dream layers remain iconic."
+    },
+    {
+      "category": "movies",
+      "title": "Drive",
+      "year": 2011,
+      "rating": 9.0,
+      "creator": "Nicolas Winding Refn",
+      "poster": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1200&q=80&auto=format&fit=crop",
+      "note": "Synthwave neon and quiet tension. Cliff Martinez’s soundtrack and the elevator sequence define cool restraint."
+    },
+    {
+      "category": "movies",
+      "title": "Spider-Verse",
+      "year": 2018,
+      "rating": 9.5,
+      "creator": "Persichetti, Ramsey, Rothman",
+      "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&q=80&auto=format&fit=crop",
+      "note": "Revolutionized western animation. Halftone dots, variable frame rates, and graffiti art colliding into pure joy."
+    },
+    {
+      "category": "movies",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "rating": 9.2,
+      "creator": "Christopher Nolan",
+      "poster": "https://images.unsplash.com/photo-1533282960533-51328aa49826?w=1200&q=80&auto=format&fit=crop",
+      "note": "A relentless psychological thriller dressed as a historical biopic. The Trinity test sequence leaves you breathless."
+    },
+    {
+      "category": "movies",
+      "title": "Arrival",
+      "year": 2016,
+      "rating": 9.3,
+      "creator": "Denis Villeneuve",
+      "poster": "https://financetrainingcourse.com/education/wp-content/uploads/2017/01/arrival_ver8_xxlg-768x1199.jpg",
+      "note": "Language, nonlinear perception, and profound empathy. Max Richter’s 'On the Nature of Daylight' anchors the emotional core."
+    },
+    {
+      "category": "series",
+      "title": "Severance",
+      "year": 2022,
+      "rating": 9.7,
+      "creator": "Dan Erickson",
+      "poster": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80&auto=format&fit=crop",
+      "note": "Brilliant corporate dystopian satire and mystery box storytelling. The Lumon office set design is pure sterile perfection."
+    },
+    {
+      "category": "series",
+      "title": "Succession",
+      "year": 2018,
+      "rating": 9.8,
+      "creator": "Jesse Armstrong",
+      "poster": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80&auto=format&fit=crop",
+      "note": "Shakespearean tragedy disguised as dark comedy. Nicholas Britell’s piano score and blistering dialogue set a new standard."
+    },
+    {
+      "category": "series",
+      "title": "Dark",
+      "year": 2017,
+      "rating": 9.6,
+      "creator": "Baran bo Odar",
+      "poster": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80&auto=format&fit=crop",
+      "note": "The most airtight time travel puzzle ever constructed. Every thread connects across three generations of Winden families."
+    },
+    {
+      "category": "series",
+      "title": "Arcane",
+      "year": 2021,
+      "rating": 9.8,
+      "creator": "Fortiche / Riot Games",
+      "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80&auto=format&fit=crop",
+      "note": "Hand-painted 2D/3D hybrid style that redefined animated storytelling. The emotional fracture between Vi and Jinx is devastating."
+    },
+    {
+      "category": "series",
+      "title": "Mindhunter",
+      "year": 2017,
+      "rating": 9.4,
+      "creator": "David Fincher",
+      "poster": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&q=80&auto=format&fit=crop",
+      "note": "Methodical procedural pacing, razor-sharp dialogue, and chilling interview scenes. Fincher’s obsessive craft in every shot."
+    },
+    {
+      "category": "series",
+      "title": "Mr. Robot",
+      "year": 2015,
+      "rating": 9.5,
+      "creator": "Sam Esmail",
+      "poster": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80&auto=format&fit=crop",
+      "note": "Unconventional quadrant framing, authentic terminal hacking, and mental health exploration. Season 4 episode 7 is legendary."
+    },
+    {
+      "category": "series",
+      "title": "Chernobyl",
+      "year": 2019,
+      "rating": 9.6,
+      "creator": "Craig Mazin",
+      "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80&auto=format&fit=crop",
+      "note": "What is the cost of lies? Harrowing, claustrophobic atmosphere captured with Hildur Guðnadóttir’s metallic industrial sounds."
+    },
+    {
+      "category": "series",
+      "title": "The Bear",
+      "year": 2022,
+      "rating": 9.3,
+      "creator": "Christopher Storer",
+      "poster": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80&auto=format&fit=crop",
+      "note": "High-wire anxiety and culinary craft. The intensity of a kitchen brigade paired with deeply moving family catharsis."
+    },
+    {
+      "category": "anime",
+      "title": "Spirited Away",
+      "year": 2001,
+      "rating": 9.7,
+      "creator": "Hayao Miyazaki",
+      "poster": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80&auto=format&fit=crop",
+      "note": "Pure cinematic magic. The train gliding over the flooded tracks and Joe Hisaishi’s piano theme evoke eternal nostalgia."
+    },
+    {
+      "category": "anime",
+      "title": "Attack on Titan",
+      "year": 2013,
+      "rating": 9.8,
+      "creator": "Hajime Isayama",
+      "poster": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80&auto=format&fit=crop",
+      "note": "Unmatched narrative foreshadowing and moral complexity. Hiroyuki Sawano’s bombastic orchestral score elevates every battle."
+    },
+    {
+      "category": "anime",
+      "title": "Cyberpunk: Edgerunners",
+      "year": 2022,
+      "rating": 9.5,
+      "creator": "Studio Trigger",
+      "poster": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&q=80&auto=format&fit=crop",
+      "note": "Vibrant neon ultra-violence with a devastating emotional punch. 'I Really Want to Stay at Your House' will never sound the same."
+    },
+    {
+      "category": "anime",
+      "title": "Your Name",
+      "year": 2016,
+      "rating": 9.4,
+      "creator": "Makoto Shinkai",
+      "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&q=80&auto=format&fit=crop",
+      "note": "Breathtaking twilight skies, comets, and missed connections. RADWIMPS’ music anchors Shinkai’s romantic peak."
+    },
+    {
+      "category": "anime",
+      "title": "Jujutsu Kaisen",
+      "year": 2020,
+      "rating": 9.3,
+      "creator": "Sunghoo Park / MAPPA",
+      "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&q=80&auto=format&fit=crop",
+      "note": "Fluid martial arts animation, kinetic hand-to-hand combat, and unforgettable domain expansion set pieces."
+    },
+    {
+      "category": "anime",
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "rating": 9.6,
+      "creator": "Shinichirō Watanabe",
+      "poster": "https://images.unsplash.com/photo-1538370965046-79c0d6907d47?w=1200&q=80&auto=format&fit=crop",
+      "note": "The cool melancholic king of space westerns. Yoko Kanno and The Seatbelts delivering timeless jazz and blues."
+    },
+    {
+      "category": "anime",
+      "title": "Evangelion",
+      "year": 1995,
+      "rating": 9.4,
+      "creator": "Hideaki Anno",
+      "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80&auto=format&fit=crop",
+      "note": "Groundbreaking psychological deconstruction of the mecha genre. Existential dread and introspective vulnerability."
+    },
+    {
+      "category": "anime",
+      "title": "Vinland Saga",
+      "year": 2019,
+      "rating": 9.5,
+      "creator": "Makoto Yukimura",
+      "poster": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&q=80&auto=format&fit=crop",
+      "note": "A profound journey from violent revenge to peaceful redemption. 'I have no enemies' is one of anime’s greatest arcs."
+    }
+  ],
+  "music": {
+    "Favourites": [
+      {
+        "title": "Midnight City",
+        "artist": "M83",
+        "duration": "4:03",
+        "audio": ""
+      },
+      {
+        "title": "Resonance",
+        "artist": "HOME",
+        "duration": "3:32",
+        "audio": ""
+      },
+      {
+        "title": "Starboy",
+        "artist": "The Weeknd · Daft Punk",
+        "duration": "3:50",
+        "audio": ""
+      },
+      {
+        "title": "After Dark",
+        "artist": "Mr.Kitty",
+        "duration": "4:19",
+        "audio": ""
+      },
+      {
+        "title": "Chamber of Reflection",
+        "artist": "Mac DeMarco",
+        "duration": "3:51",
+        "audio": ""
+      }
+    ],
+    "Focus": [
+      {
+        "title": "Solaris",
+        "artist": "C418",
+        "duration": "3:18",
+        "audio": ""
+      },
+      {
+        "title": "Dayvan Cowboy",
+        "artist": "Boards of Canada",
+        "duration": "5:00",
+        "audio": ""
+      },
+      {
+        "title": "Alberto Balsalm",
+        "artist": "Aphex Twin",
+        "duration": "5:11",
+        "audio": ""
+      },
+      {
+        "title": "Vessel",
+        "artist": "Jon Hopkins",
+        "duration": "4:44",
+        "audio": ""
+      },
+      {
+        "title": "A Walk",
+        "artist": "Tycho",
+        "duration": "5:16",
+        "audio": ""
+      }
+    ],
+    "Late night": [
+      {
+        "title": "Gooey",
+        "artist": "Glass Animals",
+        "duration": "4:49",
+        "audio": ""
+      },
+      {
+        "title": "Breathe",
+        "artist": "Télépopmusik",
+        "duration": "4:42",
+        "audio": ""
+      },
+      {
+        "title": "Nightcall",
+        "artist": "Kavinsky",
+        "duration": "4:19",
+        "audio": ""
+      },
+      {
+        "title": "Space Song",
+        "artist": "Beach House",
+        "duration": "5:20",
+        "audio": ""
+      },
+      {
+        "title": "Teardrop",
+        "artist": "Massive Attack",
+        "duration": "5:29",
+        "audio": ""
+      }
+    ]
+  },
+  "photos": [
+    { "w": 4, "h": 5, "title": "Kerala", "src": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1200&q=80&auto=format&fit=max", "cap": "Misty backwaters at sunrise, Alappuzha, 2024" },
+    { "w": 1, "h": 1, "title": "Street", "src": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&q=80&auto=format&fit=max", "cap": "Golden hour reflection on asphalt, Kochi, 2024" },
+    { "w": 3, "h": 2, "title": "Coast", "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80&auto=format&fit=max", "cap": "Driftwood and salt foam at dusk, Varkala, 2025" },
+    { "w": 4, "h": 5, "title": "Portrait", "src": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80&auto=format&fit=max", "cap": "Shadow play and natural window light, 35mm, 2024" },
+    { "w": 3, "h": 4, "title": "Hills", "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&q=80&auto=format&fit=max", "cap": "Tea plantations engulfed in rolling fog, Munnar, 2024" },
+    { "w": 1, "h": 1, "title": "Night", "src": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&q=80&auto=format&fit=max", "cap": "Neon wet pavement and quiet alleyways, 2025" },
+    { "w": 3, "h": 2, "title": "Rain", "src": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=1200&q=80&auto=format&fit=max", "cap": "Monsoon raindrops on emerald banana leaves, 2024" },
+    { "w": 4, "h": 5, "title": "Market", "src": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80&auto=format&fit=max", "cap": "Spices, burlap sacks and morning bustle, Mattancherry, 2025" },
+    { "w": 1, "h": 1, "title": "Light", "src": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=1200&q=80&auto=format&fit=max", "cap": "Direct beam through cathedral louvres, 2025" }
+  ],
+  "books": [
+    { "title": "Atomic Habits", "author": "James Clear", "rating": 9.4, "color": "#d9593b", "textColor": "#ffffff", "note": "A masterclass on compound improvements. The cue-craving-response-reward loop transformed how I approach daily software engineering." },
+    { "title": "Everyday Things", "author": "Don Norman", "rating": 9.6, "color": "#161a33", "textColor": "#ffffff", "note": "Affordances, signifiers, and feedback. Made me realize that if a user struggles with an interface, it is the design at fault, never the user." },
+    { "title": "Zero to One", "author": "Peter Thiel", "rating": 9.1, "color": "#2535d0", "textColor": "#ffffff", "note": "Vertical progress from 0 to 1 versus horizontal progress from 1 to n. Contrarian thinking that fundamentally reshaped how I think about creating technology." },
+    { "title": "Steal Like an Artist", "author": "Austin Kleon", "rating": 9.3, "color": "#2e5b44", "textColor": "#ffffff", "note": "Nothing is completely original. Collect good ideas, remix, transform, and build your own creative lineage." },
+    { "title": "Deep Work", "author": "Cal Newport", "rating": 9.5, "color": "#6d3b84", "textColor": "#ffffff", "note": "Rules for focused success in a distracted world. The superpower of eliminating noise and producing high cognitive output." },
+    { "title": "Thinking, Fast & Slow", "author": "Daniel Kahneman", "rating": 9.7, "color": "#e9e6df", "textColor": "#161a33", "note": "System 1 intuition versus System 2 deliberation. An eye-opening journey into heuristics, cognitive biases, and human judgment." },
+    { "title": "Refactoring UI", "author": "Adam Wathan & Steve Schoger", "rating": 9.8, "color": "#2535d0", "textColor": "#ffffff", "note": "The ultimate tactical guide to designing modern web applications from an engineer's perspective. Hierarchy, spacing, and micro-details." },
+    { "title": "Show Your Work!", "author": "Austin Kleon", "rating": 9.2, "color": "#d9593b", "textColor": "#ffffff", "note": "Generosity beats genius. Share your process, prototypes, and works-in-progress, not just the polished end product." },
+    { "title": "Klara and the Sun", "author": "Kazuo Ishiguro", "rating": 9.0, "color": "#161a33", "textColor": "#ffffff", "note": "A poignant and haunting examination of artificial intelligence, empathy, loneliness, and what it truly means to love." },
+    { "title": "The Pragmatic Programmer", "author": "David Thomas & Andrew Hunt", "rating": 9.5, "color": "#2e5b44", "textColor": "#ffffff", "note": "Timeless craftsmanship: DRY, orthogonality, stone soup, and taking responsibility for your code." },
+    { "title": "Creative Selection", "author": "Ken Kocienda", "rating": 9.4, "color": "#6d3b84", "textColor": "#ffffff", "note": "Inside Apple’s design process during the golden age of Steve Jobs. Demos, taste, iteration, and decisive product taste." },
+    { "title": "Sapiens", "author": "Yuval Noah Harari", "rating": 9.6, "color": "#e9e6df", "textColor": "#161a33", "note": "A brief history of humankind through shared fictions, money, empire, and our unstoppable technological evolution." }
+  ]
+}
+
